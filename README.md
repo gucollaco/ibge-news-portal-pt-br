@@ -4,5 +4,7 @@ Um simples projeto desenvolvido com a finalidade de exemplificar a utilização 
 
 Link do site: https://react-eulexia-example-pt-br.vercel.app/
 
+[Aqui](https://github.com/gucollaco/ibge-news-portal) está uma versão em que [react-eulexia](https://github.com/gucollaco/react-eulexia) é utilizado em inglês.
+
 ## Licença
 Licença [MIT](./LICENSE).
